@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "",
+    "STORAGE_ACCOUNT_KEY": "",
+    "NOTION_API_TOKEN": "",
+    "NOTION_PAGE_ID": "",
+    "TWITTER_USER_NAME": "",
+    "TWITTER_USER_TOKEN": "",
+    "STORAGE_ACCOUNT_NAME": ""
+  }
+}
