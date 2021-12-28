@@ -1,4 +1,6 @@
-# Typescript Azure Functions + Notion API + Twitter = a Notion page showing your Twitter activity from the last week (updated each night)
+## Typescript Azure Function integrated with Notion API & Twitter API
+
+The functions creates/updates a Notion page showing your Twitter activity from the last week (updated each night)
 
 Check out the full article here - https://www.codingwithmiszu.com/2021/12/28/how-to-integrate-typescript-azure-functions-with-notion-api
 
@@ -12,7 +14,7 @@ Check out the full article here - https://www.codingwithmiszu.com/2021/12/28/how
 
 ✅ Twitter API v2
 
-<img src="https://github.com/miszu/NotionAzureFunctionsTwitterSync/blob/main/diagram.png?raw=true" width="933" height="451"/>
+<img src="https://github.com/miszu/NotionAzureFunctionsTwitterSync/blob/main/diagram.png?raw=true" width="615" height="297"/>
 
 ## How to run
 
@@ -23,7 +25,4 @@ npm install
 npm start
 ```
 
-Open the /setup link (the last command above will output it), then the bot should start responding.
-
-## Notion page which will be created/updated
 ![Image](https://github.com/miszu/NotionAzureFunctionsTwitterSync/blob/main/notionpage.png?raw=true)
